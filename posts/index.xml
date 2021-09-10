@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jack Irvine</title>
-    <link>https://jackirvine.dev/</link>
-    <description>Recent content on Jack Irvine</description>
+    <title>Posts on Jack Irvine</title>
+    <link>https://jackirvine.dev/posts/</link>
+    <description>Recent content in Posts on Jack Irvine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Jack Irvine</copyright>
-    <lastBuildDate>Thu, 09 Sep 2021 13:19:21 +0100</lastBuildDate><atom:link href="https://jackirvine.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 13:19:21 +0100</lastBuildDate><atom:link href="https://jackirvine.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is this the right Jack Irvine?</title>
       <link>https://jackirvine.dev/posts/is-this-the-right-jack-irvine/</link>
@@ -18,15 +18,6 @@
 My name is Jack, I&amp;rsquo;m currently a third-year undergraduate studying Artificial Intelligence at The University of Edinburgh.
 If you&amp;rsquo;re looking for the former public relations manager for Rangers, or the talented Australian artist behind the album artwork of the Skegss, I&amp;rsquo;m afraid you&amp;rsquo;re in the wrong place. Otherwise, hello and welcome to my personal website.
 Originally from Shetland, I&amp;rsquo;ve been fortunate to have had opportunities to travel all around the world, including a year in China where I received a scholarship to study Mandarin Chinese for 11 months.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://jackirvine.dev/about/</link>
-      <pubDate>Thu, 09 Sep 2021 11:45:45 +0100</pubDate>
-      
-      <guid>https://jackirvine.dev/about/</guid>
-      <description></description>
     </item>
     
   </channel>
